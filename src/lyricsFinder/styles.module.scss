@@ -1,0 +1,30 @@
+.container {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+
+    .main {
+        width: 100%;
+        max-width: 1440px;
+
+        .heading {
+            font-size: 32px;
+            font-weight: 900;
+        }
+
+        .form {
+            margin-top: 30px;
+            display: flex;
+            gap: 30px;
+
+            .submitButton {
+                height: 50px;
+                overflow: hidden;
+            }
+        }
+
+        .lyricsContainer {
+            margin-top: 30px;
+        }
+    }
+}
