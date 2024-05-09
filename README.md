@@ -1,3 +1,7 @@
+
+![image](https://github.com/a2rp/lyrics-finder/assets/5670738/31fdf2c6-14e9-42b7-82d8-24aaf962a2de)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
